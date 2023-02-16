@@ -10,4 +10,4 @@ This repo contains Lecture notes, assignment, tests and solutions for the course
 ## Book Links:
 1. [Dimitri P. Bertsekas - 2_ Dynamic Programming and Optimal Control, Vol. II. 2-Athena Scientific (2007)](https://drive.google.com/file/d/1Tns86us-mp5XL50OlBw1ldQMoibiO5VJ/view?usp=sharing)
 2. [Book_RL_Neuro-Dynamic_Programming_Bertsekas](https://drive.google.com/file/d/1855kAlYydnhHBOUQOhVJOQshzikXAHpC/view?usp=sharing)
-3. [Book_RL_Sutton_and_Barto]()
+3. [Book_RL_Sutton_and_Barto](https://drive.google.com/file/d/14rBt0MtnTe28vP_cI-JA41tB05z1A3PN/view?usp=sharing)
