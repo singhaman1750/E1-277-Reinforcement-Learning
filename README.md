@@ -12,8 +12,11 @@ This repo contains Lecture notes, assignment, tests and solutions for the course
 ## Topics taught in class
 1. **Intro to RL** (Sutton and Barto, Ch-1)
 2. **Multi-armed Bandits** (Sutton and Barto, Ch-2)
-3. **Finite Horizon Problems (DP)** (Bertsekas, DP and Optimal Control, Vol-1, Ch-1)
-4. **Stochastic Shortest path (SSP) problems** (Bertsekas, DP and Optimal Control, Vol-2, Ch-2)
+3. **Finite Horizon Problems** (Bertsekas, DP and Optimal Control, Vol-1, Ch-1)\
+a. Dynamic Programming
+4. **Stochastic Shortest path (SSP) problems** (Bertsekas, DP and Optimal Control, Vol-2, Ch-2)\
+a. Value Iteration\
+b. Policy Iteration
 5. **Infinite Horizon discounted cost problems**
 
 ## Helpful Video Lectures:
