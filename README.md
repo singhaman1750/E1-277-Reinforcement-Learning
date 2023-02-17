@@ -10,8 +10,8 @@ This repo contains Lecture notes, assignment, tests and solutions for the course
 3. [Book_RL_Sutton_and_Barto](https://drive.google.com/file/d/14rBt0MtnTe28vP_cI-JA41tB05z1A3PN/view?usp=sharing)
 
 ## Topics taught in class
-1. **Intro to RL** (Sutton and Barto)
-2. **Multi-armed Bandits** (Sutton and Barto)
+1. **Intro to RL** (Sutton and Barto, Ch-1)
+2. **Multi-armed Bandits** (Sutton and Barto, Ch-2)
 3. **Finite Horizon Problems (DP)** (Bertsekas, DP and Optimal Control, Vol-1, Ch-1)
 4. **Stochastic Shortest path (SSP) problems** (Bertsekas, DP and Optimal Control, Vol-2, Ch-2)
 5. **Infinite Horizon discounted cost problems**
