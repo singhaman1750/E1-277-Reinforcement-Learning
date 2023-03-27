@@ -19,6 +19,12 @@ a. Dynamic Programming
 a. Value Iteration\
 b. Policy Iteration
 5. **Infinite Horizon discounted cost problems**
+6. **Model Free Approaches**(Sutton and Barto, Ch-5)(NDP book, Bertsekas Tsitsiklis)\
+a. Monte Carlo\
+b. Temporal Difference (TD(lambda))\
+c. Q-value Iteration\
+d. On-policy vs Off-policy methods\
+e. Monte Carlo Algo\
 
 ## Helpful Video Lectures:
 [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
