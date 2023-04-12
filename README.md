@@ -24,8 +24,8 @@ a. Monte Carlo\
 b. Temporal Difference (TD(lambda))\
 c. Q-value Iteration\
 d. On-policy vs Off-policy methods\
-e. Monte Carlo Algo\
+e. Monte Carlo Algo
 
-## Helpful Video Lectures:
-[Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-
+## Helpful Video Lectures and Articles:
+1. [Reinforcement Learning: David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+2. [Policy Gradient Algorithms: Lilian Weng](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/#what-is-policy-gradient)
